@@ -1,0 +1,1 @@
+Colocá aquí logo-comiteapp.png si no está ya en esta carpeta. Los tres diagramas UML incluidos se muestran desde esta carpeta. El DER no estaba incluido en el ZIP recibido; agregá el archivo DER y actualizá el enlace cuando lo tengas.
